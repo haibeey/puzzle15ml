@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:/Python35/puzzle15ML/modeldir/model.ckpt"
+all_model_checkpoint_paths: "C:/Python35/puzzle15ML/modeldir/model.ckpt"
