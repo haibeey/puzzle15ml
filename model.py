@@ -24,5 +24,5 @@ def main():
     saver.save(sess,"C:/Python35/puzzle15ML/modeldir/model.ckpt")
 
 
-
-main()
+if__name__=="__main__":
+    main()
